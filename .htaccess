@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^portfolio thanks.html [NC]
